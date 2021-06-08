@@ -1,0 +1,18 @@
+body{text-align: center;
+background: linear-gradient(#228b22 0%,#ffd700 100%);
+}
+#a{background-color: chartreuse;
+height: 20px;
+width: 200px;
+font-size: medium;
+}
+#b{background-color: chartreuse;
+height: 20px;
+width: 200px;
+font-size: medium;
+}
+#c{background-color: chartreuse;
+height: 20px;
+width: 200px;
+font-size: medium;
+}
